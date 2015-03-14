@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notifications</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="system_update_details">System update details : \\n new revision : 4.83Buv23.1</string>
+    <string name="notification_details">notification details</string>
+    <string name="show_notification">Show Notification</string>
+
+</resources>
