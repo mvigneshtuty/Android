@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dialog</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_dialog">Dialog</string>
+    <string name="click_me">Click me!</string>
+    <string name="ok_clicked">OK clicked!</string>
+<string name="ok_diag_btn">OK</string>
+<string name="cancel_diag_btn">Cancel</string>
+<string name="cancel_clicked">Cancel clicked!</string>
+<string name="display_progress_dialog">click to display progress dialog!</string>
+<string name="show_download_progress">show download progress</string>
+<string name="id_invoke_another_activity">\@+id/invoke another activity!</string>
+<string name="invoke_another_activity">invoke another activity!</string>
+<string name="showgmail">showGmail</string>
+</resources>

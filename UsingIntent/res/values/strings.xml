@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UsingIntent</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="click_to_view_second_activity">Click to view second activity!</string>
+    <string name="i_m_the_second_activity">I\'m the second activity..</string>
+    <string name="second_activity">SecondActivity</string>
+    <string name="welcome_to_third_activity">Welcome to THIRD activity!</string>
+    <string name="third_activity">Third Activity</string>
+    <string name="invoke_another_activity">invoke another activity</string>
+    <string name="enter_your_user_name">Enter your user name</string>
+    <string name="ok">OK</string>
+    <string name="get_user_details">Get user details</string>
+    <string name="pass_data_to_next_activity">Pass data to next activity!</string>
+    <string name="back">Back</string>
+    <string name="display_user_details">Display user details</string>
+
+</resources>

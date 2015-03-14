@@ -1,0 +1,23 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+   >
+    
+    <fragment 
+        android:name="org.codehowpedia.fragments.FragmentsMain"
+        android:id="@+id/fragment_main"
+        android:layout_weight="1"
+        android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+        />
+    <fragment 
+        android:name="org.codehowpedia.fragments.FragmentsMainSecond"
+        android:id="@+id/fragment_main_second"
+        android:layout_weight="1"
+        android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+        />
+</LinearLayout>
+

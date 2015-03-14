@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidIntents</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="open_browser">Open Browser</string>
+    <string name="make_phone_call">Make Phone Call</string>
+    <string name="show_map">Show Map</string>
+    <string name="call_home">Call Home</string>
+    <string name="call_friend">Call Friend</string>
+    <string name="launch_my_browser">Launch My Browser</string>
+    <string name="my_browser">my browser</string>
+
+</resources>
