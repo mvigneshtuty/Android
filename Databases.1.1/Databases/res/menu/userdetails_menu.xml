@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.codehowpedia.databases.DatabasesActivity" >
+
+    <item
+        android:id="@+id/delete_user"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/delete_user"/> 
+
+</menu>
